@@ -4,6 +4,9 @@ A [Claude skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/o
 
 It packs the process a student team used to build, review and deliver a graded booking-to-cash model: what to do in which order, which rules graders check, how to decide between DMN and gateways, how to validate decision tables, and the mistakes worth avoiding.
 
+## Background
+This skill was created in the context of a group assignment for the course *Business Analysis* (KU Leuven, academic year 2026-2027). As a team of five students, we had to model a company's booking-to-cash process in BPMN and its business decisions in DMN, using Camunda 8. While working on that task, we collected our working method, the course's quality rules and the lessons from our review rounds in this skill, so that it can help other students with similar modelling assignments. It describes how to model, not what to model: it contains no part of our submitted solution.
+
 ## What is inside
 | File | Content |
 |---|---|
