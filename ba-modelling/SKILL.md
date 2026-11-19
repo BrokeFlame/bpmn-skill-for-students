@@ -89,3 +89,6 @@ every page looked at, every remaining warning justified, model opens in Camunda 
 ## Credits
 Written by a student team while working on a BPMN/DMN modelling assignment, with Claude. The optional
 validation tooling mentioned above is the `bpmn` skill by architawr (MIT licence).
+Sources: the rules are paraphrased from the Business Analysis course at KU Leuven (J. De Weerdt),
+Dumas et al. (2018) *Fundamentals of BPM*, Mendling, Reijers & van der Aalst (2010) *7PMG*, Milani (2019)
+*Digital Business Analysis*, and the OMG BPMN 2.0.2 and DMN specifications. Full references: README.md.
